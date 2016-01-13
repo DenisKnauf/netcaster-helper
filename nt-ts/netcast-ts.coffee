@@ -25,7 +25,7 @@
 			undefined
 		netcastscroll()
 
-		$('pc-ts').replaceWith ->
+		$('nc-ts').replaceWith ->
 			$this = $ this
 			ts = $this.text()
 			$ '<a>'
